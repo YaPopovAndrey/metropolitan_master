@@ -1,0 +1,8 @@
+.menu__block {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(7, minmax(min-content, max-content));
+    margin: 0;
+    gap: 20px;
+}
