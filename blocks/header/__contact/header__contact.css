@@ -1,0 +1,11 @@
+.header__contact {
+    margin: 0 0 0 10px;
+    min-width: 200px;
+    height: 40px;
+    border: 0.5px solid rgba(0, 100, 143, 0.6);
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}

@@ -6,6 +6,15 @@
 
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__menu/header__menu.css);
+@import url(./blocks/header/__social/header__social.css);
+@import url(./blocks/header/__icons/header__icons.css);
+@import url(./blocks/header/__icon/header__icon.css);
+@import url(./blocks/header/__icon/_type/header__icon_type_instagramm.css);
+@import url(./blocks/header/__icon/_type/header__icon_type_telegramm.css);
+@import url(./blocks/header/__icon/_type/header__icon_type_whatsapp.css);
+@import url(./blocks/header/__contact/header__contact.css);
+@import url(./blocks/header/__phone-img/header__phone-img.css);
+@import url(./blocks/header/__number-phone/header__number-phone.css);
 
 @import url(./blocks/logo/logo.css);
 @import url(./blocks/logo/_place/logo_place_header.css);
