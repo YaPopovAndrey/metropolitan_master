@@ -1,3 +1,7 @@
 .header__icon_type_telegramm {
     background-image: url(../../../../images/telegramm.svg);
 }
+
+.header__icon_type_telegramm:hover {
+    background-image: url(../../../../images/telegramm-hover.svg);
+}

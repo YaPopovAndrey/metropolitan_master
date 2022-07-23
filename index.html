@@ -35,5 +35,81 @@
             <address class="header__number-phone">+7 (964) 717-81-81</address>
         </div>
     </header>
+    <main class="main">
+        <section class="banner">
+            <div class="slider">
+                <div class="slider__item">
+                    <div class="slider__info">
+                        <input class="slider__price-btn" type="button" value="ЦЕНЫ">
+                        <h1 class="slider__title">Ремонт квартир под ключ</h1>
+                        <p class="slider__subtitle">от 2900 руб/м²</p>
+                        <p class="slider__text">в Москве и Подмосковье с гарантией качества и сроков</p>
+                        <input class="slider__calc-btn" type="button" value="Расчитать стоимость">
+                    </div>
+                    <div class="slider__circle slider__circle_color_blue">
+                        <img class="slider__img" src="./images/slider-img-1.svg" alt="Изображение акции">
+                    </div>
+                </div>
+
+                <div class="slider__item">
+                    <div class="slider__info">
+                        <input class="slider__price-btn" type="button" value="ЦЕНЫ">
+                        <h1 class="slider__title">Дизайн-проект</h1>
+                        <p class="slider__subtitle">Скидка 50%</p>
+                        <p class="slider__text slider__text_size_small">Подбор материалов под Ваш бюджет Выезд и консультация дизайнера бесплатно</p>
+                        <input class="slider__calc-btn" type="button" value="Хочу скидку!">
+                        <p class="slider__note"> * подробности акции уточняйте у оператора</p>
+                    </div>
+                    <div class="slider__circle slider__circle_color_purple">
+                        <img class="slider__img slider__img_type_slider-2" src="./images/slider-img-2.svg" alt="Изображение акции">
+                    </div>
+                </div>
+
+                <div class="slider__item">
+                    <div class="slider__info">
+                        <input class="slider__price-btn" type="button" value="ЦЕНЫ">
+                        <h1 class="slider__title">Ремонт в новостройке</h1>
+                        <p class="slider__subtitle">Скидка 5%</p>
+                        <p class="slider__text">Делаем скидку — приближаем мечту</p>
+                        <input class="slider__calc-btn" type="button" value="Хочу скидку!">
+                        <p class="slider__note"> * подробности акции уточняйте у оператора</p>
+                    </div>
+                    <div class="slider__circle slider__circle_color_green">
+                        <img class="slider__img slider__img_type_slider-3" src="./images/slider-img-3.svg" alt="Изображение акции">
+                    </div>
+                </div>
+
+                <div class="slider__item">
+                    <div class="slider__info">
+                        <input class="slider__price-btn" type="button" value="ЦЕНЫ">
+                        <h1 class="slider__title">Ветеранам и инвалидам</h1>
+                        <p class="slider__subtitle">Скидка 10%</p>
+                        <p class="slider__text"> Уважение и помощь, вместо слов</p>
+                        <input class="slider__calc-btn" type="button" value="Хочу скидку!">
+                        <p class="slider__note"> * подробности акции уточняйте у оператора</p>
+                    </div>
+                    <div class="slider__circle slider__circle_color_yellow">
+                        <img class="slider__img slider__img_type_slider-4" src="./images/slider-img-4.svg" alt="Изображение акции">
+                    </div>
+                </div>
+            
+                <a class="slider__button slider__button_prev" onclick="minusSlide()"></a>
+                <a class="slider__button slider__button_next" onclick="plusSlide()"></a>
+
+                <div class="slider__dots">
+                    <span class="slider__dot" onclick="currentSlide(1)"></span> 
+                    <span class="slider__dot" onclick="currentSlide(2)"></span> 
+                    <span class="slider__dot" onclick="currentSlide(3)"></span>
+                    <span class="slider__dot" onclick="currentSlide(4)"></span> 
+                </div>
+            </div>
+            
+        </section>
+        
+    </main>
+    <footer class="footer">
+
+    </footer>
+    <script type="text/javascript" src="./slider.js"></script>
 </body>
 </html>

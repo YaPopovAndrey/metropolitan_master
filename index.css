@@ -22,3 +22,32 @@
 @import url(./blocks/menu/menu.css);
 @import url(./blocks/menu/__block/menu__block.css);
 @import url(./blocks/menu/__point/menu__point.css);
+
+@import url(./blocks/main/main.css);
+
+@import url(./blocks/banner/banner.css);
+@import url(./blocks/slider/slider.css);
+@import url(./blocks/slider/__item/slider__item.css);
+@import url(./blocks/slider/__info/slider__info.css);
+@import url(./blocks/slider/__price-btn/slider__price-btn.css);
+@import url(./blocks/slider/__title/slider__title.css);
+@import url(./blocks/slider/__subtitle/slider__subtitle.css);
+@import url(./blocks/slider/__text/slider__text.css);
+@import url(./blocks/slider/__text/_size-small/slider__text_size_small.css);
+@import url(./blocks/slider/__calc-btn/slider__calc-btn.css);
+@import url(./blocks/slider/__circle/slider__circle.css);
+@import url(./blocks/slider/__circle/_color/slider__circle_color_blue.css);
+@import url(./blocks/slider/__circle/_color/slider__circle_color_yellow.css);
+@import url(./blocks/slider/__circle/_color/slider__circle_color_green.css);
+@import url(./blocks/slider/__circle/_color/slider__circle_color_purple.css);
+@import url(./blocks/slider/__img/slider__img.css);
+@import url(./blocks/slider/__img/_type/slider__img_type_slider-2.css);
+@import url(./blocks/slider/__img/_type/slider__img_type_slider-3.css);
+@import url(./blocks/slider/__img/_type/slider__img_type_slider-4.css);
+@import url(./blocks/slider/__note/slider__note.css);
+@import url(./blocks/slider/__button/slider__button.css);
+@import url(./blocks/slider/__button/_next/slider__button_next.css);
+@import url(./blocks/slider/__button/_prev/slider__button_prev.css);
+@import url(./blocks/slider/__dots/slider__dots.css);
+@import url(./blocks/slider/__dot/slider__dot.css);
+@import url(./blocks/slider/__dot/_active/slider__dot_active.css);

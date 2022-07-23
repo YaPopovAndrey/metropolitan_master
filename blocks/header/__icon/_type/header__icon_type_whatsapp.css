@@ -1,3 +1,7 @@
 .header__icon_type_whatsapp {
     background-image: url(../../../../images/Whatsap.svg);
 }
+
+.header__icon_type_whatsapp:hover {
+    background-image: url(../../../../images/Whatsap-hover.svg);
+}

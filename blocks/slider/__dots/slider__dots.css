@@ -1,0 +1,7 @@
+.slider__dots {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 66px;
+    gap: 10px;
+    margin-bottom: 20px;
+}

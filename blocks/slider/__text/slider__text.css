@@ -1,0 +1,9 @@
+.slider__text {
+    margin: 45px 0 110px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    max-width: 589px;
+}

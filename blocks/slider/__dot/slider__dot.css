@@ -1,0 +1,14 @@
+.slider__dot{
+    cursor: pointer;
+    height: 8px;
+    width: 8px;
+    background-color: #DEDEDE;
+    border-radius: 50%;
+    transition: 0.6s ease;
+    align-self: center;
+}
+
+.slider__dot:hover {
+    background-color: #00648F;
+    transform: scale(1.2);
+}

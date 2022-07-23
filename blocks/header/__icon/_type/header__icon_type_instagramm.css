@@ -1,3 +1,7 @@
 .header__icon_type_instagramm {
     background-image: url(../../../../images/Insta.svg);
 }
+
+.header__icon_type_instagramm:hover {
+    background-image: url(../../../../images/Insta-hover.svg);
+}
