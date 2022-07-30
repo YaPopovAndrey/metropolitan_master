@@ -1,0 +1,6 @@
+.about__company {
+  width: 600px;
+  min-height: 300px;
+  border: solid 0.5px #00648f99;
+  border-radius: 4px;
+}

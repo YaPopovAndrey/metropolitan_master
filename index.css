@@ -51,3 +51,16 @@
 @import url(./blocks/slider/__dots/slider__dots.css);
 @import url(./blocks/slider/__dot/slider__dot.css);
 @import url(./blocks/slider/__dot/_active/slider__dot_active.css);
+
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__title/about__title.css);
+@import url(./blocks/about/__info/about__info.css);
+@import url(./blocks/about/__company/about__company.css);
+@import url(./blocks/about/__list/about__list.css);
+@import url(./blocks/about/__company-title/about__company-title.css);
+@import url(./blocks/about/__company-text/about__company-text.css);
+@import url(./blocks/about/__company-text/_list/about__company-text_list.css);
+@import url(./blocks/about/__digits/about__digits.css);
+@import url(./blocks/about/__digit/about__digit.css);
+@import url(./blocks/about/__digit-title/about__digit-title.css);
+@import url(./blocks/about/__digit-text/about__digit-text.css);

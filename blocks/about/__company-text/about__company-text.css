@@ -1,0 +1,10 @@
+.about__company-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #111;
+  max-width: 475px;
+  margin: 0 0 0 50px;
+}

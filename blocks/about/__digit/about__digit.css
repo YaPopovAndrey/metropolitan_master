@@ -1,0 +1,6 @@
+.about__digit {
+  background-color: rgba(196, 196, 196, 0.2);
+  border-radius: 4px;
+  margin: 64px 0 30px;
+  min-height: 114px;
+}
