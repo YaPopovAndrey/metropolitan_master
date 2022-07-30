@@ -1,5 +1,5 @@
 .about__list {
   padding: 0;
-  list-style-image: url(../../../../images/list.svg);
+  list-style-image: url(../../../images/list.svg);
   list-style-position: inside;
 }
