@@ -1,0 +1,11 @@
+.card__text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #111;
+  min-height: 75px;
+  margin: 20px 0 20px 30px;
+  max-width: 286px;
+}

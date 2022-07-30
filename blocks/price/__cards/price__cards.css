@@ -1,0 +1,7 @@
+.price__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 350px);
+  gap: 110px;
+  justify-content: center;
+  align-content: center;
+}

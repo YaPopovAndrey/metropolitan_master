@@ -1,0 +1,15 @@
+.card__btn-selection {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #fff;
+  width: 160px;
+  height: 40px;
+  background: #f13e32;
+  border-radius: 4px;
+  margin: 0 0 15px 0;
+  border: none;
+  cursor: pointer;
+}
