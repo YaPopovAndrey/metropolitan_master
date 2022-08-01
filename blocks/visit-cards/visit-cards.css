@@ -1,0 +1,9 @@
+.visit-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 600px);
+  grid-template-rows: repeat(2, 220px);
+  row-gap: 50px;
+  column-gap: 70px;
+  justify-content: center;
+  padding: 55px 0;
+}
