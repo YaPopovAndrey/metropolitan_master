@@ -86,4 +86,10 @@
 @import url(./blocks/visit-card/__info/visit-card__info.css);
 @import url(./blocks/visit-card/__point/visit-card__point.css);
 @import url(./blocks/visit-card/__circle/visit-card__circle.css);
+@import url(./blocks/visit-card/__circle/_type/visit-card__circle_type_master.css);
+@import url(./blocks/visit-card/__circle/_type/visit-card__circle_type_buy.css);
+@import url(./blocks/visit-card/__circle/_type/visit-card__circle_type_control.css);
 @import url(./blocks/visit-card/__img/visit-card__img.css);
+@import url(./blocks/visit-card/__img/_type/visit-card__img_type_master.css);
+@import url(./blocks/visit-card/__img/_type/visit-card__img_type_buy.css);
+@import url(./blocks/visit-card/__img/_type/visit-card__img_type_control.css);

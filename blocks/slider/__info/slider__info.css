@@ -1,3 +1,4 @@
 .slider__info {
-    margin-left: 85px;
+  margin-left: 85px;
+  z-index: 2;
 }
