@@ -93,3 +93,16 @@
 @import url(./blocks/visit-card/__img/_type/visit-card__img_type_master.css);
 @import url(./blocks/visit-card/__img/_type/visit-card__img_type_buy.css);
 @import url(./blocks/visit-card/__img/_type/visit-card__img_type_control.css);
+
+@import url(./blocks/examples/examples.css);
+@import url(./blocks/examples/__title/examples__title.css);
+@import url(./blocks/examples/__subtitle/examples__subtitle.css);
+@import url(./blocks/examples/__slider/examples__slider.css);
+@import url(./blocks/examples/__slider-item/examples__slider-item.css);
+@import url(./blocks/examples/__slider-img/examples__slider-img.css);
+@import url(./blocks/examples/__slider-button/examples__slider-button.css);
+@import url(./blocks/examples/__slider-button/_next/examples__slider-button_next.css);
+@import url(./blocks/examples/__slider-button/_prev/examples__slider-button_prev.css);
+@import url(./blocks/examples/__slider-dots/examples__slider-dots.css);
+@import url(./blocks/examples/__slider-dot/examples__slider-dot.css);
+@import url(./blocks/examples/__works-block/examples__works-block.css);
